@@ -4,7 +4,7 @@ I am Vaishakh and i am currently pursuing my B-Tech degree in CS from college of
 
 Skills: PYTHON/JAVA/C
 
-- 🔭 I’m currently working on Portfolio website 
+- 🔭 I’m currently working on a portfolio website 
 - 🌱 I’m currently learning Data structure and Data analytics 
 - 👯 I’m looking to collaborate on Robotics projects 
 
