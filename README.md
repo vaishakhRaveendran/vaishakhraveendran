@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishakh M</h1>
+<h1 align="center">Hi 👋, I'm Vaishakh</h1>
 <h3 align="center">I am a Machine Learning and Robotics enthusiast</h3>
 
 - 🔭 I’m currently working on **Portfolio Website**
