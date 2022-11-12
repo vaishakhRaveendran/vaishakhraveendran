@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **Robotics projects**
 
 - 📫 How to reach me **vaishakhraveendran2002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
