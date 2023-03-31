@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg?raw=true  width="400" 
-     height="500"" />
+    <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg?raw=true  width="200" 
+     height="250"" />
     <img src="https://skillicons.dev/icons?i=git,c,java,mysql,ps,php,py" />
     
   </a>
