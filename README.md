@@ -17,6 +17,7 @@ ME={
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
-<div align="left">   <div>     <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200">   </div>   <div>     <p align="right">I would love to contribute to machine learning projects. If you want to say hi, I'll be happy to connect!</p>   </div> </div>
+<div align="left"><div> ###<img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200"></div><div>    
+<p>I would love to contribute to machine learning projects. If you want to say hi, I'll be happy to connect!</p>   </div> </div>
 
 ---
