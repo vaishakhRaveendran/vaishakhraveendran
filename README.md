@@ -17,6 +17,6 @@ ME={
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
-<script src="https://gist.github.com/vaishakhRaveendran/5652dca57c42553ac76360155c848bf9.js"></script>
+<div align="left">   <div>     <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200">   </div>   <div>     <p align="right">I would love to contribute to machine learning projects. If you want to say hi, I'll be happy to connect!</p>   </div> </div>
 
 ---
