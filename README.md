@@ -17,13 +17,29 @@ ME={
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
- <div class="container">
-      <div class="image">
-        <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200">
-      </div>
-      <div class="text">
-        <p>I would love to contribute for machine learning projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></p>
-      </div>
- </div>
+ <style>
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  margin-right: 20px; /* Add some spacing between image and text */
+}
+
+.image img {
+  max-width: 200px; /* Set the maximum width for the image */
+}
+</style>
+
+<div class="container">
+  <div class="image">
+    <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200">
+  </div>
+  <div class="text">
+    <p>I would love to contribute for machine learning projects so if you want to say hi, I'll be happy to meet you more!</p>
+  </div>
+</div>
+
 
 ---
