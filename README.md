@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
- {
+ME={
   pronouns: "he" | "him",
   code: [Java, Pyhton, HTML, CSS],
   tools: [Git, Photoshop, SQL, Notion, Postman],
@@ -18,6 +18,6 @@
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="<iframe src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cartoon-robot-8qrrHSsrK9xpknGVNF">via GIPHY</a></p>" width="60"> <em><b>I would love to contribute for machine learning projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
