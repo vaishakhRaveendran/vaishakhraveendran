@@ -17,12 +17,12 @@ ME={
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
-<div align="center">
+<div align="left">
   <div>
     <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200">
   </div>
   <div>
-    <p align="left">I would love to contribute to machine learning projects. If you want to say hi, I'll be happy to connect!</p>
+    <p align="right">I would love to contribute to machine learning projects. If you want to say hi, I'll be happy to connect!</p>
   </div>
 </div>
 
