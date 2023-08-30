@@ -18,6 +18,6 @@ ME={
 }
 ```
 <div align="left"><div><img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50"></div><div>    
-<p>I would love to contribute to machine learning projects. If you want to say hi, I'll be happy to connect!</p>   </div> </div>
+<p>I'm passionate about contributing to machine learning projects. If you're working on an exciting ML project, I'd love to connect and collaborate!</p>   </div> </div>
 
 ---
