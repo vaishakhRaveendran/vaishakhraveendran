@@ -17,7 +17,6 @@ ME={
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
-<iframe src="https://gist.github.com/vaishakhRaveendran/5652dca57c42553ac76360155c848bf9.js"></iframe>
-
+<script src="https://gist.github.com/vaishakhRaveendran/5652dca57c42553ac76360155c848bf9.js"></script>
 
 ---
