@@ -17,7 +17,7 @@ ME={
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
-<iframe src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cartoon-robot-8qrrHSsrK9xpknGVNF">via GIPHY</a></p>
+<img src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="50">
 <em><b>I would love to contribute for machine learning projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
