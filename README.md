@@ -22,23 +22,8 @@ ME={
         <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="200">
       </div>
       <div class="text">
-        <h3>I would love to contribute for machine learning projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></h1>
+        <p>I would love to contribute for machine learning projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></p>
       </div>
  </div>
 
 ---
-.container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
-}
-
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 70px;
-}
