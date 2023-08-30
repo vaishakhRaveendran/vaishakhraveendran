@@ -12,11 +12,12 @@
 ```javascript
 ME={
   pronouns: "he" | "him",
-  code: [Java, Pyhton, HTML, CSS],
+  code: [Java, Python, HTML, CSS],
   tools: [Git, Photoshop, SQL, Notion, Postman],
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
 ```
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-cartoon-robot-8qrrHSsrK9xpknGVNF">via GIPHY</a></p>
 <em><b>I would love to contribute for machine learning projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
