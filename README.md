@@ -5,7 +5,8 @@
 
 [![Linkedin: vaishakh](https://img.shields.io/badge/-vaishakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishakh/)](https://www.linkedin.com/in/vaishakh-m-561a5523a/)
 [![GitHub Vaishakh](https://img.shields.io/github/followers/vaishakhRaveendran?label=follow&style=social)](https://github.com/vaishakhRaveendran)
-[![](https://komarev.com/ghpvc/?username=vaishakhRaveendran&label=PROFILE+VIEWS)]
+[![GitHub Vaishakh](https://img.shields.io/github/views/vaishakhRaveendran?label=follow&style=social)](https://github.com/vaishakhRaveendran)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
