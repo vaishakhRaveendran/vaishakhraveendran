@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student at <a href="https://www.cet.ac.in/">College of Engineering,Trivandrum</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
-
+![](https://komarev.com/ghpvc/?username=vaishakhRaveendran)
 [![Linkedin: vaishakh](https://img.shields.io/badge/-vaishakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishakh/)](https://www.linkedin.com/in/vaishakh-m-561a5523a/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/vaishakhRaveendran?label=follow&style=social)](https://github.com/vaishakhRaveendran)
 
