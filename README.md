@@ -5,7 +5,6 @@
 
 [![Linkedin: vaishakh](https://img.shields.io/badge/-vaishakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishakh/)](https://www.linkedin.com/in/vaishakh-m-561a5523a/)
 [![GitHub Vaishakh](https://img.shields.io/github/followers/vaishakhRaveendran?label=follow&style=social)](https://github.com/vaishakhRaveendran)
-[![](https://img.shields.io/github/views/vaishakhRaveendran?label=views&style=social)](https://github.com/vaishakhRaveendran)
 
 
 
