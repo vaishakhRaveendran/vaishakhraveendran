@@ -13,7 +13,7 @@
 ```javascript
 ME={
   pronouns: "he" | "him",
-  code: [Java, Python, HTML, CSS,Flask,Django],
+  code: [Java, Python, HTML, CSS,Flask,Django,Bootstrap],
   tools: [Git, Photoshop, SQL, Notion, Postman],
   Libraries: ["Sklearn", "Tensorflow", "Pandas","Numpy","Langchain","Seaborn"],
 }
