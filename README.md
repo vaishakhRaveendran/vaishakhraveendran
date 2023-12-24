@@ -10,19 +10,20 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```python
 ME = {
-  "pronouns": "he" | "him",
-  "programming": ["C", "Java", "Python", "HTML", "CSS"],
-  "web_frameworks": ["Flask", "Django"],
-  "design_and_tools": ["Bootstrap", "Git", "Photoshop"],
-  "databases": ["SQL", "psql", "Chroma"],
-  "productivity": ["Notion", "Postman"],
-  "ml_libraries": ["Sklearn", "Tensorflow"],
-  "data_libraries": ["Pandas", "Numpy", "Seaborn", "Matplotlib", "shap"],
-  "custom_libraries": ["Langchain"],
-  "editors": ["Sublime", "VSCode", "PyCharm"],
+  pronouns: "he" | "him",
+  programming: ["C", "Java", "Python", "HTML", "CSS"],
+  web_frameworks: ["Flask", "Django"],
+  design_and_tools: ["Bootstrap", "Git", "Photoshop"],
+  databases: ["SQL", "psql", "Chroma"],
+  productivity: ["Notion", "Postman"],
+  ml_libraries: ["Sklearn", "Tensorflow"],
+  data_libraries: ["Pandas", "Numpy", "Seaborn", "Matplotlib", "shap"],
+  custom_libraries: ["Langchain"],
+  editors: ["Sublime", "VSCode", "PyCharm"],
 }
+
 ```
 ### <img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50">Hello!! I'm passionate about contributing to machine learning projects.I'd love to connect and collaborate!
 
