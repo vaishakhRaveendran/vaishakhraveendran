@@ -13,10 +13,10 @@
 ```python
 ME = {
   pronouns: "he" | "him",
-  programming: ["C", "Java", "Python", "HTML", "CSS"],
-  web_frameworks: ["Flask", "Django"],
+  programming: [C, "Java", Python, "HTML", "CSS"],
+  web_frameworks: ["Flask", Django],
   design_and_tools: ["Bootstrap", "Git", "Photoshop"],
-  databases: ["SQL", "psql", "Chroma"],
+  databases: [SQL, psql, "Chroma","MongoDB"],
   productivity: ["Notion", "Postman"],
   ml_libraries: ["Sklearn", "Tensorflow"],
   data_libraries: ["Pandas", "Numpy", "Seaborn", "Matplotlib", "shap"],
