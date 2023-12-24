@@ -15,13 +15,13 @@ ME = {
   pronouns: "he" | "him",
   programming: [C, "Java", Python, "HTML", "CSS"],
   web_frameworks: ["Flask", Django],
-  design_and_tools: ["Bootstrap", "Git", "Photoshop"],
+  design_and_tools: ["Bootstrap", Git, "Photoshop"],
   databases: [SQL, psql, "Chroma","MongoDB"],
-  productivity: ["Notion", "Postman"],
-  ml_libraries: ["Sklearn", "Tensorflow"],
-  data_libraries: ["Pandas", "Numpy", "Seaborn", "Matplotlib", "shap"],
+  productivity: ["Notion", Postman],
+  ml_libraries: [Sklearn, Tensorflow],
+  data_libraries: [Pandas, Numpy, "Seaborn", "Matplotlib","Scipy","shap"],
   custom_libraries: ["Langchain"],
-  editors: ["Sublime", "VSCode", "PyCharm"],
+  editors: [Sublime, "VSCode", PyCharm],
 }
 
 ```
