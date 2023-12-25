@@ -16,7 +16,7 @@ ME = {
   programming: [C, "Java", Python, "HTML", "CSS"],
   web_frameworks: ["Flask", Django],
   design_and_tools: ["Bootstrap", Git, "Photoshop"],
-  databases: [SQL, psql, "Chroma","MongoDB"],
+  databases: [SQL,PSQL, "Chroma","MongoDB"],
   productivity: ["Notion", Postman],
   ml_libraries: [Sklearn, Tensorflow],
   data_libraries: [Pandas, Numpy, "Seaborn", "Matplotlib","Scipy","shap"],
