@@ -25,6 +25,6 @@ ME = {
 }
 
 ```
-### <img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50">Hello!! I'm passionate about contributing to machine learning projects.I'd love to connect and collaborate!
+### <img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50">Hello!! I'm passionate about contributing to projects.I'd love to connect and collaborate!
 
 ---
