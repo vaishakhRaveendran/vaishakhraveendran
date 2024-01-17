@@ -11,19 +11,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  What is cool about me !!!
 
 ```python
-const myInformation = {
-  pronouns: "he/him",
-  programmingLanguages: ["C", "Java", "Python", "HTML", "CSS", "JavaScript"],
-  webFrameworks: ["Flask", "Django", "Node.js"],
-  designAndTools: ["Bootstrap", "Git", "Photoshop"],
-  databases: ["SQL", "PSQL", "Chroma", "MongoDB"],
-  productivityTools: ["Notion", "Postman"],
-  machineLearningLibraries: ["Scikit-learn", "Tensorflow"],
-  dataLibraries: ["Pandas", "Numpy", "Seaborn", "Matplotlib", "Scipy", "shap"],
-  customLibraries: ["Langchain"],
-  codeEditors: ["Sublime", "VSCode", "PyCharm"],
+ME = {
+  pronouns: he/him,
+  programmingLanguages: [C, "Java", Python, "HTML", CSS, "JavaScript"],
+  webFrameworks: ["Flask", Django, "Node.js"],
+  designAndTools: ["Bootstrap", Git, "Photoshop"],
+  databases: [SQL, PSQL, Chroma, MongoDB],
+  productivityTools: [Notion, "Postman"],
+  machineLearningLibraries: ["Scikit-learn", Tensorflow],
+  dataLibraries: [Pandas, Numpy, "Seaborn", "Matplotlib", Scipy, "shap"],
+  customLibraries: [Langchain],
+  codeEditors: ["Sublime", "VSCode", PyCharm],
 };
-
 
 ```
 ### <img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50">Hello!! I'm passionate about contributing to projects.I'd love to connect and collaborate!
