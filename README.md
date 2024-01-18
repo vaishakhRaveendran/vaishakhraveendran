@@ -14,7 +14,7 @@
 ME = {
   pronouns: he/him,
   programmingLanguages: [C, "Java", Python, "HTML", CSS, "JavaScript"],
-  webFrameworks: ["Flask", Django, "Node.js"],
+  webFrameworks: [Flask, Django, "Node.js"],
   designAndTools: ["Bootstrap", Git, "Photoshop"],
   databases: [SQL, PSQL, Chroma, MongoDB],
   productivityTools: [Notion, "Postman"],
