@@ -21,7 +21,7 @@ ME = {
   machineLearningLibraries: ["Scikit-learn", Tensorflow],
   dataLibraries: [Pandas, Numpy, "Seaborn", "Matplotlib", Scipy, "shap"],
   customLibraries: [Langchain,JQuery],
-  codeEditors: ["Sublime", "VSCode", PyCharm],
+  codeEditors: ["Sublime", "VSCode",PyCharm],
 };
 
 ```
