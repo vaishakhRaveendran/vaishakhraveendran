@@ -20,7 +20,7 @@ ME = {
   productivityTools: [Notion, "Postman"],
   machineLearningLibraries: ["Scikit-learn", Tensorflow],
   dataLibraries: [Pandas, Numpy, "Seaborn", "Matplotlib", Scipy, "shap"],
-  customLibraries: [Langchain,JQuery],
+  customLibraries: [Langchain,LlamaIndex,JQuery],
   codeEditors: ["Sublime", "VSCode",PyCharm],
 };
 
