@@ -17,7 +17,7 @@ ME = {
   webFrameworks: [Flask, Django, "Node.js"],
   designAndTools: ["Bootstrap", Git, "Photoshop"],
   databases: [SQL, PSQL, Chroma,"mongoDB"],
-  productivityTools: [Notion, "Postman"],
+  productivityTools: [Notion, "Postman","poetry"],
   machineLearningLibraries: ["Scikit-learn", Tensorflow],
   dataLibraries: [Pandas, Numpy, "Seaborn", "Matplotlib", Scipy, "shap"],
   customLibraries: [Langchain,LlamaIndex,JQuery],
