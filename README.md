@@ -12,17 +12,33 @@
 
 ```python
 ME = {
-  pronouns: he/him,
-  programmingLanguages: [C, "Java", Python, "HTML", CSS, "JavaScript"],
-  webFrameworks: [Flask, Django, "Node.js"],
-  designAndTools: ["Bootstrap", Git, "Photoshop"],
-  databases: [SQL, PSQL, Chroma,"mongoDB"],
-  productivityTools: [Notion, "Postman","poetry"],
-  machineLearningLibraries: ["Scikit-learn", Tensorflow],
-  dataLibraries: [Pandas, Numpy, "Seaborn", "Matplotlib", Scipy, "shap"],
-  customLibraries: [Langchain,LlamaIndex,JQuery],
-  codeEditors: ["Sublime", "VSCode",PyCharm],
-};
+    "personalInfo": {
+        "pronouns": "he/him",
+    },
+    "programmingLanguages": {
+        "core": ["C", "Java", "Python"],
+        "web": ["HTML", "CSS", "JavaScript"],
+    },
+    "webFrameworks": ["Flask", "Django", "Node.js"],
+    "designAndTools": {
+        "design": ["Bootstrap", "Photoshop"],
+        "versionControl": "Git",
+        "frontEnd": ["React"],
+    },
+    "databases": {
+        "relational": ["SQL", "PostgreSQL"],
+        "document": ["Chroma", "MongoDB"],
+    },
+    "productivityTools": ["Notion", "Postman", "Poetry"],
+    "machineLearningLibraries": ["Scikit-learn", "Tensorflow"],
+    "dataLibraries": {
+        "dataManipulation": ["Pandas", "NumPy"],
+        "visualization": ["Seaborn", "Matplotlib"],
+        "scientific": ["SciPy", "Shap"],
+    },
+    "customLibraries": ["Langchain", "LlamaIndex", "JQuery"],
+    "codeEditors": ["Sublime", "VSCode", "PyCharm"],
+}
 
 ```
 ### <img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50">Hello!! I'm passionate about contributing to projects.I'd love to connect and collaborate!
