@@ -12,14 +12,13 @@
 
 ```python
 ME = {
-    "personalInfo": {
-        "pronouns": "he/him",
-    },
+        pronouns: "he/him",
+    
     "programmingLanguages": {
         "core": ["C", "Java", "Python"],
         "web": ["HTML", "CSS", "JavaScript"],
     },
-    "webFrameworks": ["Flask", "Django", "Node.js"],
+    webFrameworks: ["Flask", "Django", "Node.js"],
     "designAndTools": {
         "design": ["Bootstrap", "Photoshop"],
         "versionControl": "Git",
@@ -29,9 +28,9 @@ ME = {
         "relational": ["SQL", "PostgreSQL"],
         "document": ["Chroma", "MongoDB"],
     },
-    "productivityTools": ["Notion", "Postman", "Poetry"],
+    productivityTools: ["Notion", "Postman", "Poetry"],
     "machineLearningLibraries": ["Scikit-learn", "Tensorflow"],
-    "dataLibraries": {
+    dataLibraries: {
         "dataManipulation": ["Pandas", "NumPy"],
         "visualization": ["Seaborn", "Matplotlib"],
         "scientific": ["SciPy", "Shap"],
