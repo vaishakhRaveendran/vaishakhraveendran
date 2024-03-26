@@ -22,7 +22,7 @@ ME = {
     "designAndTools": {
         "design": ["]Bootstrap, "Photoshop"],
         "versionControl": "Git",
-        "frontEnd": ["React"],
+        "frontEnd": [React],
     },
     "databases": {
         "relational": ["SQL", "PostgreSQL"],
@@ -33,7 +33,7 @@ ME = {
     dataLibraries: {
         "dataManipulation": ["Pandas", "NumPy"],
         "visualization": [Seaborn, "Matplotlib"],
-        "scientific": ["SciPy", "Shap"],
+        "scientific": [SciPy, "Shap"],
     },
     "customLibraries": ["Langchain", "LlamaIndex", "JQuery"],
     "codeEditors": ["Sublime", "VSCode", "PyCharm"],
