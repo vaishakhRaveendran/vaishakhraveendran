@@ -25,8 +25,8 @@ ME = {
         "frontEnd": [React],
     },
     "databases": {
-        "relational": ["SQL", "PostgreSQL"],
-        "document": ["Chroma", "MongoDB"],
+        "relational": [SQL, "PostgreSQL"],
+        "document": ["Chroma", MongoDB],
     },
     productivityTools: ["Notion", "Postman", Poetry],
     "machineLearningLibraries": ["Scikit-learn", "Tensorflow"],
