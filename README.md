@@ -20,7 +20,7 @@ ME = {
     },
     webFrameworks: ["Flask", Django, "Node.js"],
     "designAndTools": {
-        "design": ["]Bootstrap, "Photoshop","Davinci"],
+        "design": ["Bootstrap, "Photoshop","Davinci"],
         "versionControl": "Git",
         "frontEnd": [React],
     },
