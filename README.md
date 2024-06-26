@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="100">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50%">
 </p>
 
 <p align="center">
