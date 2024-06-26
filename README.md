@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>Student Developer</code> • <code>Machine Learning Enthusiast</code> • <code>Problem Solver</code>
+  <code>Student Developer</code> • <code>Machine Learning Enthusiast</code> • <code>Problem Solver</code>• <code>Loves OSS</code>
 </p>
 
 <p align="center">
@@ -23,8 +23,4 @@
   <a href="https://www.linkedin.com/in/vaishakh-m-561a5523a/">
     <img src="https://img.shields.io/badge/-Vaishakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishakh-m-561a5523a/" alt="LinkedIn Badge">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
 </p>
