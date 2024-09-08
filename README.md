@@ -19,5 +19,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40">
 </p>
 
-![Holopin board]( https://www.holopin.io/@vaishakhraveendran#badges)] 
-
